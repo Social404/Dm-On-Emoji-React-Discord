@@ -1,0 +1,26 @@
+Install Python from the website (NOT WINDOWS STORE)
+
+Open cmd.exe and run those commands
+
+pip install requests
+pip install discord
+pip install colorama
+pip install discord.py-self
+pip install capmonster_python
+
+
+Files:
+
+tokens.txt (Put your tokens, more = better, need stay already in the server)
+sent.txt (will be saved ids of already sent dms)
+bad.txt (bad tokens will be saved here)
+
+Params:
+
+Listener Token: (Token used to check new joiner, will not be used for dming)
+Server ID: (Id of the server in order to check if tokens has been kicked/banned from the server)
+Message ID: (Message id of emoji message)
+CapMonster API KEY: (Capmonster apikey to solve captcha)
+Proxy: (If you want use proxy, if not leave empty)
+
+To Edit your message edit the py file (line 12)
