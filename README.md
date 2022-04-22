@@ -1,2 +1,1 @@
-# Dm-On-Emoji-React-Discord
-Sends A Message To Anyone Who React To The Choosen Message With Captcha Bypass
+<center><p><img style="display: block; margin-left: auto; margin-right: auto;" src="./Banner.png" alt="" width=100% height=100% /></p></center>
